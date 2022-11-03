@@ -1,5 +1,5 @@
 # StormCash
-A crypto coin mixer built on top of Zero knowledge proof (ZK-SNARKS)
+A crypto coin mixer built on top of Zero knowledge proof (ZK-SNARKS) | Coming soon
 
 
 
